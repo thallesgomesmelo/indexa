@@ -1,0 +1,14 @@
+.container {
+  width: 684px;
+  max-width: 90%;
+
+  margin: 0 auto;
+  margin-top: 80px;
+  padding: 56px 134px;
+
+  border-radius: 16px;
+  border: 1px solid #0d6efd;
+  background: #f8f9fa;
+  box-shadow: 0 8px 16px 0 rgba(61, 139, 253, 0.15);
+  box-sizing: border-box;
+}
